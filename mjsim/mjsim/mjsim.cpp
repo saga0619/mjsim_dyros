@@ -8,6 +8,9 @@ int main()
 {
 	int i;
 	cout << "This is test" << endl;
+
+
+	cout << "How does this works?" << endl;
 	cin >> i;
 	
     return 0;
